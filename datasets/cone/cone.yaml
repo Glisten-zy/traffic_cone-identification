@@ -1,0 +1,6 @@
+train: E:\rubbercone-captioning\datasets\cone\images\train
+val: E:\rubbercone-captioning\datasets\cone\images\val
+test: E:\rubbercone-captioning\datasets\cone\images\test
+
+nc: 1
+names: ['traffic_cone']
