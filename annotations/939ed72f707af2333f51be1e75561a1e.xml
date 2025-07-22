@@ -1,0 +1,26 @@
+<annotation>
+	<folder>橡胶路锥</folder>
+	<filename>939ed72f707af2333f51be1e75561a1e.jpeg</filename>
+	<path>E:\爱思益秋招\实习\谷歌实习\橡胶路锥\939ed72f707af2333f51be1e75561a1e.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>38</ymin>
+			<xmax>731</xmax>
+			<ymax>1352</ymax>
+		</bndbox>
+	</object>
+</annotation>
